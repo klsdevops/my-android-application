@@ -1,1 +1,1 @@
-# my-android-application
+This is an Android Project application
